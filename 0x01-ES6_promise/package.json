@@ -1,11 +1,12 @@
 {
-  "name": "0x01-ES6_promise",
+  "name": "0x00-ES6_basic",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "dev": "node 0-main.js"
   },
   "author": "",
   "license": "ISC",
