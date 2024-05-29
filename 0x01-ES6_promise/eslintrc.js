@@ -3,6 +3,7 @@ module.exports = {
     browser: true,
     es2021: true,
     jest: true,
+    node: true, // Add this line to include Node.js environment
   },
   extends: 'eslint:recommended',
   parserOptions: {
