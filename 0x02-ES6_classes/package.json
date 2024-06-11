@@ -1,0 +1,22 @@
+{
+  "name": "0x02-ES6_classes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "@typescript-eslint/eslint-plugin": "^4.28.1",
+    "@typescript-eslint/parser": "^4.28.1",
+    "babel-jest": "^27.0.6",
+    "eslint": "^7.30.0",
+    "eslint-plugin-react": "^7.24.0",
+    "jest": "^27.0.6",
+    "typescript": "^5.4.5"
+  }
+}
